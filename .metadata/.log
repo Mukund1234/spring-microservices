@@ -1,0 +1,1403 @@
+!SESSION 2021-07-24 23:57:28.397 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-24 23:59:22.957
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-24 23:59:22.957
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ca6bd01,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5acd7d1c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-24 23:59:34.148
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-07-25 00:24:40.877
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-07-25 15:50:02.111 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-25 15:50:20.512
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-25 15:50:20.512
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1cfd6f63,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1906f982,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-25 15:50:29.005
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-25 16:04:55.013
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:56.962
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:57.511
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:58.416
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:58.862
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:59.087
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:59.231
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:04:59.367
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.258
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.389
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.559
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.630
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.695
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.864
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:00.940
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.029
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.086
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.243
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.505
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.580
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.780
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:01.850
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:02.015
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:02.255
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:09.872
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:22.265
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:22.276
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:05:22.311
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:11.902
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:11.903
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:11.913
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.094
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.163
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.165
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.538
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.539
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.539
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.759
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.815
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:12.845
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.178
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.179
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.184
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.358
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.372
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.426
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.707
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.708
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.712
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.756
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.780
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:07:13.781
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-25 16:21:45.071
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-25 16:21:57.767
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:21:58.019
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:21:58.021
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:21:59.663
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:21:59.663
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:21:59.664
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:00.022
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:00.065
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:00.114
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:01.030
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:01.032
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:01.039
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:01.923
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:01.924
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:01.985
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:02.778
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:02.792
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:02.803
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:03.050
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:03.050
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:22:03.052
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:24:21.340
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:24:21.440
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:24:21.441
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:24:22.728
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:24:22.729
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:24:22.812
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:13.174
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:13.187
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:13.188
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:14.685
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:14.689
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:14.826
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:15.060
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:15.061
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:15.063
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:17.334
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:17.336
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:17.337
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:30.212
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:30.216
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:30.221
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:31.156
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:31.158
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:31.159
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:32.844
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:32.845
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:32.850
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:40.909
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:40.909
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:40.910
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:41.754
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:41.756
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:41.757
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:43.707
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:43.709
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 16:30:43.712
+!MESSAGE Has main method computation for project 'rating-data'
+!SESSION 2021-07-25 21:30:51.610 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-25 21:31:07.601
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-25 21:31:07.601
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@538a90a5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74d53d63,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY Activator 1 0 2021-07-25 21:31:28.887
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:31:29.039
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:31:29.044
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-25 21:31:29.641
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-25 21:31:55.199
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:31:55.212
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:31:55.213
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY org.eclipse.jface.text 4 0 2021-07-25 21:31:57.653
+!MESSAGE java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+!STACK 0
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1155)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	... 6 more
+
+!ENTRY Activator 1 0 2021-07-25 21:32:58.508
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:32:58.516
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:32:58.516
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:32:58.835
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:32:58.837
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:32:58.899
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.010
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.011
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.011
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.337
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.346
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.358
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.522
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.527
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.543
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:34:12.795
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:35.878
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:35.937
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:35.962
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:36.667
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:36.667
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:36.750
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:38.681
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:38.681
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:38.682
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.169
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.174
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.267
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.588
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.590
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.649
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.777
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.808
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:39.855
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:40.155
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:40.177
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:40.483
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:40.961
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:40.999
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:41.051
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:43.161
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:43.163
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:43.163
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:43.163
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:45:44.238
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:45:44.259
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:45:44.259
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.0.3
+
+!ENTRY Activator 1 0 2021-07-25 21:45:44.767
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:45.040
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:45.070
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:45.263
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:45:45.794
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:45:45.794
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:45:45.794
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.3
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.204
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.204
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.210
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.210
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.547
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.548
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.549
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:48.550
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:49.187
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:49.212
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:49.224
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:49.510
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.274
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.285
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.309
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.345
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.483
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.484
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.499
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:51.507
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.435
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.438
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.441
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.450
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.615
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.616
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.647
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:52.648
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:54.327
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:54.328
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:54.328
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:54.329
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:56.346
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:56.347
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:56.348
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:56.353
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:56.405
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:45:56.428
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:48:35.540
+!MESSAGE Could not download sources for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:48:35.540
+!MESSAGE Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:48:35.540
+!MESSAGE Missing antlr:antlr:jar:sources:2.7.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:49:18.649
+!MESSAGE Could not download sources for xmlpull:xmlpull:1.1.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing xmlpull:xmlpull:jar:sources:1.1.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:49:18.649
+!MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:49:18.649
+!MESSAGE Missing xmlpull:xmlpull:jar:sources:1.1.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:50:59.103
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-loadbalancer:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:50:59.103
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:50:59.103
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.3
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:52:09.248
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:09.248
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:09.248
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.0.3
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:52:13.548
+!MESSAGE Could not download javadoc for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:13.548
+!MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:13.548
+!MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:52:15.085
+!MESSAGE Could not download javadoc for xmlpull:xmlpull:1.1.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:15.085
+!MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:15.085
+!MESSAGE Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 21:52:16.417
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-loadbalancer:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:16.417
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 21:52:16.417
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.3
+
+!ENTRY Activator 1 0 2021-07-25 21:52:18.126
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:52:18.126
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 21:52:18.131
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 21:52:18.234
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 21:52:18.334
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 21:52:18.361
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:57.141
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:57.141
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:57.380
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:57.402
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:58.728
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:58.728
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:58.748
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:58.814
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:59.363
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:59.367
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:59.432
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:00:59.435
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-25 22:01:03.495
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-25 22:03:19.362
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:19.363
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:19.363
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:19.364
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:20.023
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:20.043
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:20.096
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:20.162
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:46.523
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:46.523
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:46.524
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:46.526
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:47.148
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:47.161
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:47.183
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:47.279
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:51.981
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:51.982
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:51.982
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:51.983
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:52.909
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:52.978
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:53.031
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 22:03:53.140
+!MESSAGE Has main method computation for project 'movieCatalog'
+!SESSION 2021-07-25 23:07:12.992 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-25 23:08:23.631
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-25 23:08:23.631
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@654c2f81,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38af386e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-25 23:08:45.096
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-25 23:08:49.021
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:49.023
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:49.361
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:49.411
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:57.171
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:57.173
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:57.179
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:08:57.181
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-25 23:09:09.802
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jface.text 4 0 2021-07-25 23:09:17.559
+!MESSAGE java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+!STACK 0
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1155)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	... 6 more
+
+!ENTRY org.eclipse.jface.text 4 0 2021-07-25 23:09:17.560
+!MESSAGE java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+!STACK 0
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1155)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	... 6 more
+
+!ENTRY Activator 1 0 2021-07-25 23:09:33.290
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:34.071
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:34.116
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:35.313
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:59.322
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:59.323
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:59.324
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:59.326
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:59.923
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:09:59.980
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:04.485
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:04.499
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:04.547
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:04.565
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.220
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.222
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.222
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.224
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.696
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.702
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.797
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:07.932
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:09.053
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:09.054
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:09.057
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:09.162
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:48.676
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:48.680
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:48.688
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:12:48.690
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:55.799
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:55.800
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:55.800
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:55.801
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:56.202
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:56.247
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:56.277
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:56.411
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:57.537
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:57.537
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:57.538
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:13:57.549
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 23:13:58.057
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 23:13:58.061
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 23:13:58.061
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.3
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.402
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.403
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.415
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.418
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.651
+!MESSAGE Has main method computation for project 'movieCatalog'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.666
+!MESSAGE Has main method computation for project 'rating-data'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.788
+!MESSAGE Has main method computation for project 'movieInfo'
+
+!ENTRY Activator 1 0 2021-07-25 23:14:47.813
+!MESSAGE Has main method computation for project 'discovery-server'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-25 23:14:49.931
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-25 23:14:49.931
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-25 23:14:49.931
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.3
