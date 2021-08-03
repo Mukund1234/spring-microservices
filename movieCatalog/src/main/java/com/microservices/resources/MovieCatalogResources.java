@@ -1,8 +1,8 @@
 package com.microservices.resources;
 
-import com.microservices.model.CatalogItem;
-import com.microservices.model.Movie;
-import com.microservices.model.UserRating;
+import com.microservices.dto.CatalogItem;
+import com.microservices.dto.Movie;
+import com.microservices.service.UserRating;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -33,10 +33,10 @@ public class MovieCatalogResources {
     @RequestMapping("/{userId}")
     public List<CatalogItem> getCatalog(@PathVariable("userId") String userId) /*change list to object */ {
 
-        UserRating ratings = restTemplate.getForObject("http://RATING-DATA-SERVICE/ratingdata/users/" + userId,
+        UserRating userRatings = restTemplate.getForObject("http://RATING-DATA-SERVICE/ratingdata/users/" + userId,
                 UserRating.class);
 
-        return ratings.getUserRating().stream().map(rating -> {
+        return userRatings.getUserRating().stream().map(rating -> {
             Movie movie = restTemplate.getForObject("http://MOVIE-INFO-SERVICE/movies/" + rating.getMovieId(),
                     Movie.class);
             return new CatalogItem(movie.getName(), "Test", rating.getRating());

@@ -1,7 +1,7 @@
 package com.microservices.resources;
 
-import com.microservices.model.Rating;
-import com.microservices.model.UserRating;
+import com.microservices.dto.Rating;
+import com.microservices.dto.UserRating;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
