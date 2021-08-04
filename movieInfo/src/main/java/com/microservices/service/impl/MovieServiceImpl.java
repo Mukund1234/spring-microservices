@@ -15,6 +15,6 @@ public class MovieServiceImpl implements MovieService {
     @Override
     public Movie getMovie(String movieId) {
         return movieRepository.getMovie(movieId);
-
     }
 }
+

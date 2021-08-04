@@ -8,16 +8,17 @@ import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 
 @Entity
-@Table(name = "movie")
+@Table(name = "movie",schema = "microservice")
 @Getter
 @Setter
 public class Movie {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "movie_tb")
-    @SequenceGenerator(name = "movie_tb", allocationSize = 1)
-    @Column(name = "movie_Id", nullable = false)
+   /* @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "movie_tb")
+    @SequenceGenerator(name = "movie_tb", allocationSize = 1)*/
+    @Column(name = "movie_id", nullable = false)
     @NotNull(message = "Id cannot be null")
     private String movieId;
+    @Column(name = "movie_name")
     private String name;
 }
