@@ -16,9 +16,9 @@ public class Movie {
     @Id
    /* @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "movie_tb")
     @SequenceGenerator(name = "movie_tb", allocationSize = 1)*/
-    @Column(name = "movie_id", nullable = false)
+    @Column(name = "MOVIE_ID", nullable = false)
     @NotNull(message = "Id cannot be null")
     private String movieId;
-    @Column(name = "movie_name")
+    @Column(name = "MOVIE_NAME")
     private String name;
 }
